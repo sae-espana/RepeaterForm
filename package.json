@@ -1,0 +1,21 @@
+{
+  "name": "repeater-form",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@next-core/custom-antd-styles": "1.6.1",
+    "antd": "4.11.1",
+    "antd-theme-generator": "1.2.8",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
